@@ -1,1 +1,1 @@
-aler ("hello from java script!");
+alert ("hello from java script!");
